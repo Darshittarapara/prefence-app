@@ -1,0 +1,56 @@
+{
+    "breakFast": [
+        {
+            "name": "thepla",
+            "id": "b-1"
+        },
+        {
+            "name": "iteliy",
+            "id": "b-2"
+        },
+        {
+            "name": "upma",
+            "id": "b-3"
+        },
+        {
+            "name": "pauva",
+            "id": "b-4"
+        }
+    ],
+    "lunch": [
+        {
+            "name": "rice",
+            "id": "r-1"
+        },
+        {
+            "name": "dry-fry",
+            "id": "r-2"
+        },
+        {
+            "name": "gujarati udiyu",
+            "id": "r-3"
+        },
+        {
+            "name": "panner masala",
+            "id": "r-4"
+        }
+    ],
+    "dinner": [
+        {
+            "name": "chiness",
+            "id": "d-1"
+        },
+        {
+            "name": "dosha",
+            "id": "d-2"
+        },
+        {
+            "name": "meggi",
+            "id": "d-3"
+        },
+        {
+            "name": "panner tikka",
+            "id": "d-4"
+        }
+    ]
+}

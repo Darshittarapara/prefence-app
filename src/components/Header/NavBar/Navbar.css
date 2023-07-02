@@ -1,0 +1,21 @@
+.nav-links {
+    text-decoration: none;
+    color: whitesmoke;
+    border-bottom: none !important;
+}
+
+.nav-list {
+    display: inline-block;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+
+
+.active {
+    color: darkcyan;
+    border-bottom: 2px solid black;
+}

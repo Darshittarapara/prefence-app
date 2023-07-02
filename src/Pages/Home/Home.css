@@ -1,0 +1,10 @@
+.home, form {
+    background: rgb(68, 120, 116);
+    margin: 20px 35%;
+    width: 600px;
+    border: 20px;
+    justify-content: space-between;
+    display: flex;
+    padding: 7px 10px;
+    box-sizing: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+}
